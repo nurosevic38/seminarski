@@ -1,0 +1,4 @@
+[19-Nov-2020 10:32:25 Europe/Berlin] PHP Notice:  Undefined variable: brSedista in C:\xampp\htdocs\rezervacije\letClass.php on line 64
+[19-Nov-2020 10:32:25 Europe/Berlin] PHP Notice:  Undefined variable: brSedista in C:\xampp\htdocs\rezervacije\letClass.php on line 64
+[19-Nov-2020 10:32:45 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\rezervacije\generisiPodatkeSearch.php on line 10
+[19-Nov-2020 10:32:48 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\rezervacije\generisiPodatkeSearch.php on line 10
